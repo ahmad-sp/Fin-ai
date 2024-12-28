@@ -23,23 +23,26 @@ After signing up/logging in, the user will initially be able to set a budget and
 ```sh
 git clone https://github.com/yourusername/Fin-ai.git
 cd Fin-ai
-
-2. Set Up the Flutter Environment
+```
+# 2. Set Up the Flutter Environment
 Ensure you have Flutter installed. Follow the instructions here if you haven't already.
 
-3. Install Dependencies
+# 3. Install Dependencies
 Navigate to the project directory and run:
-
+```sh
 flutter pub get
-
+```
 or
-
-flutter doctor 
-## tells the required file to run the demo
+```sh
+flutter doctor
+```
+tells the required file to run the demo
 
 5. Run the Flutter App
 To run the app on an emulator or connected device, use:
+```sh
 flutter run
-
+```
 To run the A11.py
+```sh
 streamlit run A11.py
