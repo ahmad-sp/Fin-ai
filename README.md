@@ -52,12 +52,13 @@ streamlit run A11.py
 
 ### 7. Demo
 <div align="center">
-  <img align="left" width="15%" src="assets/screen1.jpg"/>
+  <img width="15%" src="assets/screen1.jpg"/>
   <img width="15%" src="assets/screen2.jpg"/>
   <img width="15%" src="assets/screen3.jpg"/>
   <img width="15%" src="assets/screen4.jpg"/>
   <img width="15%" src="assets/screen5.jpg"/>
-  <img align="right" width="15%" src="assets/screen6.png"/>
+  <img width="15%" src="assets/screen6.png"/>
 </div>
+
 
 
