@@ -57,7 +57,7 @@ streamlit run A11.py
   <img width="15%" src="assets/screen3.jpg"/>
   <img width="15%" src="assets/screen4.jpg"/>
   <img width="15%" src="assets/screen5.jpg"/>
-  <img align="right" width="15%" src="assets/screen6.jpg"/>
+  <img align="right" width="15%" src="assets/screen6.png"/>
 </div>
 
 
