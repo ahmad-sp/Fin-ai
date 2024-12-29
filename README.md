@@ -21,7 +21,7 @@ After signing up/logging in, the user will initially be able to set a budget and
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Fin-ai.git
+git clone https://github.com/ahmad-sp/Fin-ai.git
 cd Fin-ai
 ```
 ### 2. Set Up the Flutter Environment
